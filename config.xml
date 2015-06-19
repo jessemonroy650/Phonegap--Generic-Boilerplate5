@@ -7,7 +7,7 @@
         version     = "1.5"
         versionCode = "10" >
         <!-- versionCode is optional and Android only -->
-        <preference name="phonegap-version" value="3.5.0" />
+        <preference name="phonegap-version" />
 
         <name>Phonegap Generic Boilerplate #5</name>
         <description>Phonegap Generic Boilerplate #5</description>
