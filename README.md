@@ -4,7 +4,7 @@ A generic bare bones boilerplate for PhonegapApps with *cli-5.1.1* with *crosswa
 *Additions based on updates*
 http://phonegap.com/blog/2015/06/16/phonegap-updated-on-build/
 
-** Additions vs Boilerplate2**
+**Additions vs Boilerplate2**
 
 * cli-5.1.1 - unification of different platforms via CLI - See: blog
 * crosswalk - an alternative to the google's chrome-based webview - See: https://crosswalk-project.org/documentation/about.html
