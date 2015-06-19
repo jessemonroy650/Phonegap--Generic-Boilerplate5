@@ -21,6 +21,12 @@
             <!-- Add Android extensions here. SEE: http://docs.build.phonegap.com/en_US/configuring_config_file_element.md.html#Config%20File%20Elements -->
         </gap:config-file>
 
+		<!-- iOS SECTION -->
+		<gap:platform name="ios" />
+        <gap:config-file target="*-Info.plist" parent="CFBundleURLTypes">
+            <!-- Add iOS extensions here. SEE: http://docs.build.phonegap.com/en_US/configuring_config_file_element.md.html#Config%20File%20Elements -->
+        </gap:config-file>
+
         <!-- App requested permission -->
         <preference name="permissions" value="none"/>
         <preference name='phonegap-version' value='cli-5.1.1' />
