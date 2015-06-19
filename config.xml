@@ -7,8 +7,8 @@ x<?xml version="1.0" encoding="UTF-8" ?>
         version     = "1.5"
         versionCode = "10" >
         <!-- versionCode is optional and Android only -->
-        <!-- <preference name="phonegap-version" value="3.5.0" /> -->
-        <preference name='phonegap-version' value='cli-5.1.1' />
+        <preference name="phonegap-version" value="3.5.0" />
+        <!-- <preference name='phonegap-version' value='cli-5.1.1' /> -->
 
         <name>Phonegap Generic Boilerplate #5</name>
         <description>Phonegap Generic Boilerplate #5</description>
