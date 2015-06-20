@@ -20,6 +20,5 @@ https://github.com/jessemonroy650/Phonegap--Generic-Boilerplate
 
 ### ISSUES as of 2015-06-19 ###
 
-1. 2015-06-18 - *[Notes for upgrading to cli-5.1.1 on PGB](http://community.phonegap.com/nitobi/topics/notes-for-upgrading-to-cli-5-1-1-on-pgb)*
-2. 2015-06-19 - I note that there can only be one phonegap-version attribute per file; this appears to be a bug.
-
+* 2015-06-18 - *[Notes for upgrading to cli-5.1.1 on PGB](http://community.phonegap.com/nitobi/topics/notes-for-upgrading-to-cli-5-1-1-on-pgb)* (one to issues fixed @ 2015-06-19T17:42:56)
+* 2015-06-19 - There can only be one *phonegap-version* attribute per file; this appears to be a bug.
